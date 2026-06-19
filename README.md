@@ -29,9 +29,13 @@ This site was built using **WordPress + Elementor's visual page builder**. No cu
 
 ## 🖼 Gallery
 
-| Homepage | About Page | Mobile View |
-|---|---|---|
-| ![Homepage](./screenshots/homepage.png) | ![About](./screenshots/about-page.png) | ![Mobile](./screenshots/mobile-view.png) |
+| Homepage | About Us Page | Services Page |
+|:---:|:---:|:---:|
+| ![Homepage](./screenshots/homepage.png) | ![About Us](./screenshots/about-us-page.png) | ![Services](./screenshots/services-page.png) |
+| Blogs Page | Reviews Page | Contact Us Page |
+| ![Blogs Page](./screenshots/blogs-page.png) | ![Reviews Page](./screenshots/reviews-page.png) | ![Contact Us Page](./screenshots/contact-us-page.png) |
+| Why Choose Us Section | Footer Section | 
+| ![Why Choose Us Section](./screenshots/why-choose-us-section.png) | ![Footer Section](./screenshots/footer-section.png) | 
 
 ---
 
